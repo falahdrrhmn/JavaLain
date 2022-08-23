@@ -6,13 +6,6 @@
   <h2> Looping Bersarang </h2>
 </div>
 
-
-<div align="center">
-  <a href="https://github.com/falahdrrhmn/Tutorial-Java/blob/main/README.md">(Basic Java)</a>
-</div>
-
-<br>
-
 ```java
 package JavaBasic;
 
@@ -163,3 +156,17 @@ output
  * * * *
 * * * * *
 ```
+
+
+<div align="center">
+  <a href="https://github.com/falahdrrhmn/Tutorial-Java/blob/main/README.md">(Basic Java)</a>
+</div>
+
+<div align="center">
+    Follow me!<br>
+    <a href="https://bit.ly/3Qcg3s4">LinkedIn</a>
+    ·
+    <a href="https://bit.ly/3oRMMaA">Instagram</a>
+    ·
+    <a href="https://bit.ly/3zqrTrP">Youtube</a>
+</div>
