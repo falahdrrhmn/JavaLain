@@ -1,10 +1,8 @@
 # Java Lain
 
 <div align = "center">
-  <h1> Deret Fibonacci Java </h1>
+  <h1> Looping Bersarang </h1>
 </div>
-
-## Looping Bersarang
 
 ```java
 package JavaBasic;
