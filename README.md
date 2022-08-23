@@ -1,7 +1,9 @@
-# Java Lain
+<div align = "center">
+  <h1> Java Lain </h1>
+</div>
 
 <div align = "center">
-  <h1> Looping Bersarang </h1>
+  <h2> Looping Bersarang </h2>
 </div>
 
 ```java
