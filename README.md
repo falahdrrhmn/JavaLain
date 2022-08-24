@@ -196,5 +196,8 @@ ABCDEFGHI
 dan bagian bawah kayak gini 
 
 ```java
-
+ABCDEFG
+  ABCDE
+   ABC
+    A
 ```
