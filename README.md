@@ -173,3 +173,10 @@ output
     ·
     <a href="https://bit.ly/3zqrTrP">Youtube</a>
 </div>
+
+<br><br><br>
+
+<div align = "center">
+  <h2> Diamond Alphabet Pattern </h2>
+</div>
+
