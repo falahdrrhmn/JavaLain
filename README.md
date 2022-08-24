@@ -201,3 +201,17 @@ ABCDEFG
    ABC
     A
 ```
+
+agak garapih bagian bawahnya, intinya hasil akhirnya kayak gini
+
+```java
+    A
+   ABC
+  ABCDE
+ ABCDEFG
+ABCDEFGHI
+ ABCDEFG
+  ABCDE
+   ABC
+    A
+```
