@@ -180,3 +180,21 @@ output
   <h2> Diamond Alphabet Pattern </h2>
 </div>
 
+Cara bikin kayak gini 
+
+
+Maka perlu bikin bagian atas 
+
+```java
+    A
+   ABC
+  ABCDE
+ ABCDEFG
+ABCDEFGHI
+```
+
+dan bagian bawah kayak gini 
+
+```java
+
+```
